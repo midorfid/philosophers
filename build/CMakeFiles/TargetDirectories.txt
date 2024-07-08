@@ -1,0 +1,2 @@
+/home/anton_beton/Desktop/projects/philo/build/CMakeFiles/edit_cache.dir
+/home/anton_beton/Desktop/projects/philo/build/CMakeFiles/rebuild_cache.dir
